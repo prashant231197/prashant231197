@@ -13,7 +13,7 @@
 
 
 about me....
-![image](https://user-images.githubusercontent.com/62371396/120755461-a5271680-c52b-11eb-9177-840ff8348ab3.png)
+https://about.me/prashantkumarary/getstarted
 
 
 
