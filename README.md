@@ -12,6 +12,11 @@
 -  ![image](https://user-images.githubusercontent.com/62371396/120641396-2da4a900-c491-11eb-815c-8d6fecde517e.png)![image](https://user-images.githubusercontent.com/62371396/120641566-5e84de00-c491-11eb-8715-c6b4f0f4f567.png ) ![image](https://user-images.githubusercontent.com/62371396/120641600-6b093680-c491-11eb-9abb-b020ab45b219.png) ![image](https://user-images.githubusercontent.com/62371396/120642409-75780000-c492-11eb-8000-25259e4e4d28.png)
 
 
+about me....
+![image](https://user-images.githubusercontent.com/62371396/120755461-a5271680-c52b-11eb-9177-840ff8348ab3.png)
+
+
+
 
 
 
