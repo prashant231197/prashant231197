@@ -1,7 +1,5 @@
 ### Hi there 👋 prashant this side!
 ###
-![image](https://user-images.githubusercontent.com/62371396/123895643-c2f66880-d97d-11eb-8b35-833ffea738e1.png)
-
 
 
 🤔  a computer science student
