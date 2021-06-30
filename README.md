@@ -1,6 +1,7 @@
 ### Hi there 👋 prashant this side!
 ###
-https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif
+![image](https://user-images.githubusercontent.com/62371396/123895643-c2f66880-d97d-11eb-8b35-833ffea738e1.png)
+
 
 
 🤔  a computer science student
