@@ -21,7 +21,6 @@ https://about.me/prashantkumarary/getstarted
 
 
 
-![image](https://user-images.githubusercontent.com/62371396/124374034-77152d80-dcb5-11eb-818a-8b363d5a2fb5.png)
 
 
 
