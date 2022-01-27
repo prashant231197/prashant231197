@@ -20,6 +20,15 @@ about me....
 https://about.me/prashantkumarary/getstarted
 
 
+<p align="center">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashant231197&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
+
+
 
 
 
